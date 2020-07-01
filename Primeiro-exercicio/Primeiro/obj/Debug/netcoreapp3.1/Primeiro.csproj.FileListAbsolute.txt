@@ -1,0 +1,13 @@
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
