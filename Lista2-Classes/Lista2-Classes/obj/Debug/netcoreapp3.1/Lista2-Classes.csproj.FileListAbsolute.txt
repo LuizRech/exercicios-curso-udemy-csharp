@@ -1,0 +1,13 @@
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\bin\Debug\netcoreapp3.1\Lista2-Classes.exe
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\bin\Debug\netcoreapp3.1\Lista2-Classes.deps.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\bin\Debug\netcoreapp3.1\Lista2-Classes.runtimeconfig.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\bin\Debug\netcoreapp3.1\Lista2-Classes.runtimeconfig.dev.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\bin\Debug\netcoreapp3.1\Lista2-Classes.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\bin\Debug\netcoreapp3.1\Lista2-Classes.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\obj\Debug\netcoreapp3.1\Lista2-Classes.csprojAssemblyReference.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\obj\Debug\netcoreapp3.1\Lista2-Classes.AssemblyInfoInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\obj\Debug\netcoreapp3.1\Lista2-Classes.AssemblyInfo.cs
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\obj\Debug\netcoreapp3.1\Lista2-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\obj\Debug\netcoreapp3.1\Lista2-Classes.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\obj\Debug\netcoreapp3.1\Lista2-Classes.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista2-Classes\Lista2-Classes\obj\Debug\netcoreapp3.1\Lista2-Classes.genruntimeconfig.cache
