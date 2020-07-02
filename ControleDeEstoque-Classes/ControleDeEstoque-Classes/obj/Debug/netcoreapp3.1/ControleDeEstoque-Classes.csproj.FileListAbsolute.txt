@@ -1,0 +1,13 @@
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\bin\Debug\netcoreapp3.1\ControleDeEstoque-Classes.exe
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\bin\Debug\netcoreapp3.1\ControleDeEstoque-Classes.deps.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\bin\Debug\netcoreapp3.1\ControleDeEstoque-Classes.runtimeconfig.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\bin\Debug\netcoreapp3.1\ControleDeEstoque-Classes.runtimeconfig.dev.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\bin\Debug\netcoreapp3.1\ControleDeEstoque-Classes.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\bin\Debug\netcoreapp3.1\ControleDeEstoque-Classes.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\obj\Debug\netcoreapp3.1\ControleDeEstoque-Classes.csprojAssemblyReference.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\obj\Debug\netcoreapp3.1\ControleDeEstoque-Classes.AssemblyInfoInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\obj\Debug\netcoreapp3.1\ControleDeEstoque-Classes.AssemblyInfo.cs
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\obj\Debug\netcoreapp3.1\ControleDeEstoque-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\obj\Debug\netcoreapp3.1\ControleDeEstoque-Classes.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\obj\Debug\netcoreapp3.1\ControleDeEstoque-Classes.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\ControleDeEstoque-Classes\ControleDeEstoque-Classes\obj\Debug\netcoreapp3.1\ControleDeEstoque-Classes.genruntimeconfig.cache
