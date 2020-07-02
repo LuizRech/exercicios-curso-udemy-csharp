@@ -1,0 +1,13 @@
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\bin\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.exe
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\bin\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.deps.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\bin\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.runtimeconfig.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\bin\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.runtimeconfig.dev.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\bin\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\bin\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\obj\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.csprojAssemblyReference.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\obj\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.AssemblyInfoInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\obj\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.AssemblyInfo.cs
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\obj\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\obj\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\obj\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Lista 1 - Estrutura Sequencial\Lista 1 - Estrutura Sequencial\obj\Debug\netcoreapp3.1\Lista 1 - Estrutura Sequencial.genruntimeconfig.cache
