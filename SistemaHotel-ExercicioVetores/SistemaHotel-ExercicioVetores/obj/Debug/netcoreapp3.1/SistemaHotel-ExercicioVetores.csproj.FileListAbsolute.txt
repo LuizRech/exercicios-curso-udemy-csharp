@@ -1,0 +1,13 @@
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\bin\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.exe
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\bin\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.deps.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\bin\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.runtimeconfig.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\bin\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.runtimeconfig.dev.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\bin\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\bin\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\obj\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.csprojAssemblyReference.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\obj\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\obj\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.AssemblyInfo.cs
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\obj\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\obj\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\obj\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\SistemaHotel-ExercicioVetores\SistemaHotel-ExercicioVetores\obj\Debug\netcoreapp3.1\SistemaHotel-ExercicioVetores.genruntimeconfig.cache
