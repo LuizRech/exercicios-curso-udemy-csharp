@@ -1,0 +1,13 @@
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\bin\Debug\netcoreapp3.1\Employees-ExercicioListas.exe
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\bin\Debug\netcoreapp3.1\Employees-ExercicioListas.deps.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\bin\Debug\netcoreapp3.1\Employees-ExercicioListas.runtimeconfig.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\bin\Debug\netcoreapp3.1\Employees-ExercicioListas.runtimeconfig.dev.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\bin\Debug\netcoreapp3.1\Employees-ExercicioListas.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\bin\Debug\netcoreapp3.1\Employees-ExercicioListas.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\obj\Debug\netcoreapp3.1\Employees-ExercicioListas.csprojAssemblyReference.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\obj\Debug\netcoreapp3.1\Employees-ExercicioListas.AssemblyInfoInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\obj\Debug\netcoreapp3.1\Employees-ExercicioListas.AssemblyInfo.cs
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\obj\Debug\netcoreapp3.1\Employees-ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\obj\Debug\netcoreapp3.1\Employees-ExercicioListas.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\obj\Debug\netcoreapp3.1\Employees-ExercicioListas.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Employees-ExercicioListas\Employees-ExercicioListas\obj\Debug\netcoreapp3.1\Employees-ExercicioListas.genruntimeconfig.cache
