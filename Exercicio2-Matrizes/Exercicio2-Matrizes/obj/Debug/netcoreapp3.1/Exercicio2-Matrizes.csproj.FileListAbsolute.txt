@@ -1,0 +1,13 @@
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\bin\Debug\netcoreapp3.1\Exercicio2-Matrizes.exe
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\bin\Debug\netcoreapp3.1\Exercicio2-Matrizes.deps.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\bin\Debug\netcoreapp3.1\Exercicio2-Matrizes.runtimeconfig.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\bin\Debug\netcoreapp3.1\Exercicio2-Matrizes.runtimeconfig.dev.json
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\bin\Debug\netcoreapp3.1\Exercicio2-Matrizes.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\bin\Debug\netcoreapp3.1\Exercicio2-Matrizes.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\obj\Debug\netcoreapp3.1\Exercicio2-Matrizes.csprojAssemblyReference.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\obj\Debug\netcoreapp3.1\Exercicio2-Matrizes.AssemblyInfoInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\obj\Debug\netcoreapp3.1\Exercicio2-Matrizes.AssemblyInfo.cs
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\obj\Debug\netcoreapp3.1\Exercicio2-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\obj\Debug\netcoreapp3.1\Exercicio2-Matrizes.dll
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\obj\Debug\netcoreapp3.1\Exercicio2-Matrizes.pdb
+C:\Users\Luiz Rech\Desktop\Programmer\WS - Visual Studio 2019\.NET CORE\Exercicio2-Matrizes\Exercicio2-Matrizes\obj\Debug\netcoreapp3.1\Exercicio2-Matrizes.genruntimeconfig.cache
